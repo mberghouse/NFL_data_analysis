@@ -1,0 +1,41 @@
+# Project structure
+nfl-prediction/
+├── README.md
+├── requirements.txt
+├── src/
+│   ├── __init__.py
+│   ├── data/
+│   │   ├── __init__.py
+│   │   └── data_loader.py
+│   ├── features/
+│   │   ├── __init__.py
+│   │   └── feature_engineering.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   └── prediction_model.py
+│   ├── visualization/
+│   │   ├── __init__.py
+│   │   └── visualize.py
+│   └── utils/
+│       ├── __init__.py
+│       └── helpers.py
+├── notebooks/
+│   └── exploratory_data_analysis.ipynb
+├── tests/
+│   ├── __init__.py
+│   ├── test_data_loader.py
+│   └── test_prediction_model.py
+└── config/
+    └── config.yaml
+
+
+
+
+
+
+
+
+
+
+
+
