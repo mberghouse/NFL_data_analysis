@@ -1,3 +1,4 @@
+![cover](https://github.com/mberghouse/NFL_data_analysis/assets/55556564/d664205e-d4e6-4979-b1ff-04248854f00d)
 # NFL Game Prediction Project
 
 This project uses machine learning to analyze NFL data and predict game outcomes. It can run both locally and on AWS SageMaker.
