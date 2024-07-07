@@ -1,4 +1,3 @@
-# Project structure
 nfl-prediction/
 ├── README.md
 ├── requirements.txt
@@ -20,7 +19,8 @@ nfl-prediction/
 │       ├── __init__.py
 │       └── helpers.py
 ├── notebooks/
-│   └── exploratory_data_analysis.ipynb
+│   ├── exploratory_data_analysis.ipynb
+│   └── model_evaluation.ipynb
 ├── tests/
 │   ├── __init__.py
 │   ├── test_data_loader.py
